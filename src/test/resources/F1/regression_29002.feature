@@ -2,7 +2,7 @@
 @BSPID29002REV0.3.0
 Feature: mssql
 @TSCID53036
-	Scenario Outline: s1 changed again
+	Scenario Outline: s1 changed
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
