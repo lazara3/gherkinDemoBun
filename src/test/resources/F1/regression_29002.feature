@@ -12,13 +12,4 @@ Feature: mssql
 		| 2      | 8      | 3      |
 		| 4      | 6      | 8      |
 		
-@TSCID53036
-	Scenario Outline: s2
-		Given <param1> 
-		When  <param2>  
-		Then  <param3>  
 
-	Examples:
-		| param1 | param2 | param3 |
-		| 8      | 8      | 8      |
-		| 8      | 8      | 8      |
