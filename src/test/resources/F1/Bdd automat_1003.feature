@@ -5,13 +5,13 @@ Feature: test1
 	Scenario: a
 		Given 22
 		When 44
-		Then 66
+		Then 77
 
 @TSCID2127
 	Scenario: b
 		Given 22
 		When 44
-		Then 55
+		Then 66
 
 @TSCID2128
 	Scenario Outline: c
