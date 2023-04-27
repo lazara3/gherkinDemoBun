@@ -13,7 +13,7 @@ Feature: ttt
 		| 2      | 2      | 4      |
 
 @TSCID1052
-	Scenario: eee
+	Scenario: eeettt
 		Given fff
 		When fff
 		Then gggg
