@@ -2,7 +2,7 @@
 @BSPID27019REV0.2.0
 Feature: 
 @TSCID1980081
-	Scenario Outline: 
+	Scenario Outline: s1
 		Given a 
 		When  1  
 		Then  3 
