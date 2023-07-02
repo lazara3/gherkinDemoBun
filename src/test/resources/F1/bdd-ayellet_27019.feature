@@ -4,10 +4,10 @@ Feature:
 @TSCID1980081
 	Scenario Outline: s1
 		Given a 
-		When  1  
-		Then  3 
+		When  5  
+		Then  5 
 
 	Examples:
 		| param1 | param2 | param3 |
-		| a      | 1      | 3      |
+		| a      | 5      | 5      |
 		| b      | 2      | 4      |
